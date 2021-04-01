@@ -1,0 +1,32 @@
+{
+  "name": "mi-kenya-hara-webpack-plugin",
+  "version": "0.0.2",
+  "description": "xiao mi kenya hara 2000000 CNY logo",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "build": "rollup -c ./build/rollup.config.js"
+  },
+  "files": [
+    "src/**",
+    "dist/**"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CroMarmot/mi-Kenya-Hara-2000000CNY.git"
+  },
+  "keywords": [
+    "xiaomi",
+    "kenya hara",
+    "logo",
+    "2000000CNY"
+  ],
+  "author": "CroMarmot <yexiaorain@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CroMarmot/mi-Kenya-Hara-2000000CNY/issues"
+  },
+  "homepage": "https://github.com/CroMarmot/mi-Kenya-Hara-2000000CNY#readme",
+  "devDependencies": {
+    "rollup": "^2.44.0"
+  }
+}

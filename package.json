@@ -1,6 +1,6 @@
 {
   "name": "mi-kenya-hara-webpack-plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "xiao mi kenya hara 2000000 CNY logo",
   "main": "dist/bundle.js",
   "scripts": {
